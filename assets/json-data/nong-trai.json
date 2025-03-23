@@ -1,0 +1,41 @@
+{
+  "nongtrai": {
+    "1": {
+      "bag": {},
+      "plots": [
+        {
+          "crop": null,
+          "plantedAt": null,
+          "waterLevel": 100,
+          "lastWateredAt": 1739128330269,
+          "status": "Đất tốt",
+          "fertilized": []
+        },
+        {
+          "crop": null,
+          "plantedAt": null,
+          "waterLevel": 100,
+          "lastWateredAt": 1739128330269,
+          "status": "Đất tốt",
+          "fertilized": []
+        },
+        {
+          "crop": null,
+          "plantedAt": null,
+          "waterLevel": 100,
+          "lastWateredAt": 1739128330269,
+          "status": "Đất tốt",
+          "fertilized": []
+        },
+        {
+          "crop": null,
+          "plantedAt": null,
+          "waterLevel": 100,
+          "lastWateredAt": 1739128330269,
+          "status": "Đất tốt",
+          "fertilized": []
+        }
+      ]
+    }
+  }
+}

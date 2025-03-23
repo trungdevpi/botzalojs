@@ -1,0 +1,11 @@
+2025-03-23 16:36:26 - Mã Lỗi: 161 - > Chú Thích Lỗi Tin Nhắn: Nhóm này không tồn tại.
+Nội Dung Lỗi: ZlBotDQTApiError: Nhóm này không tồn tại.
+    at file:///C:/Users/tritr/OneDrive/%E3%83%87%E3%82%B9%E3%82%AF%E3%83%88%E3%83%83%E3%83%97/botzalojs/src/api-zalo/apis/sendMessage.js:64:33
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Promise.all (index 0)
+    at async send (file:///C:/Users/tritr/OneDrive/%E3%83%87%E3%82%B9%E3%82%AF%E3%83%88%E3%83%83%E3%83%97/botzalojs/src/api-zalo/apis/sendMessage.js:69:10)
+    at async API.sendMessage (file:///C:/Users/tritr/OneDrive/%E3%83%87%E3%82%B9%E3%82%AF%E3%83%88%E3%83%83%E3%83%97/botzalojs/src/api-zalo/apis/sendMessage.js:459:30)
+    at async sendGifRemote (file:///C:/Users/tritr/OneDrive/%E3%83%87%E3%82%B9%E3%82%AF%E3%83%88%E3%83%83%E3%83%97/botzalojs/src/service-dqt/chat-zalo/chat-special/send-gif/send-gif.js:19:5)
+    at async handleCommandPrivate (file:///C:/Users/tritr/OneDrive/%E3%83%87%E3%82%B9%E3%82%AF%E3%83%88%E3%83%83%E3%83%97/botzalojs/src/commands/command.js:448:13)
+    at async messagesUser (file:///C:/Users/tritr/OneDrive/%E3%83%87%E3%82%B9%E3%82%AF%E3%83%88%E3%83%83%E3%83%97/botzalojs/src/automations/event-send-msg.js:136:33)
+    at async Listener.<anonymous> (file:///C:/Users/tritr/OneDrive/%E3%83%87%E3%82%B9%E3%82%AF%E3%83%88%E3%83%83%E3%83%97/botzalojs/src/index.js:165:5)

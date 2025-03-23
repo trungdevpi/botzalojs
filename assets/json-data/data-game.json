@@ -1,0 +1,203 @@
+{
+  "baucua": {
+    "jackpot": "1000000",
+    "history": []
+  },
+  "chanle": {
+    "jackpot": "490605650864878044.16",
+    "history": [
+      {
+        "dice": [
+          6,
+          5,
+          2
+        ],
+        "total": 13,
+        "result": "le",
+        "timestamp": 1742718052356
+      },
+      {
+        "dice": [
+          2,
+          5,
+          5
+        ],
+        "total": 12,
+        "result": "chan",
+        "timestamp": 1742718703952
+      },
+      {
+        "dice": [
+          1,
+          3,
+          5
+        ],
+        "total": 9,
+        "result": "le",
+        "timestamp": 1742719058026
+      },
+      {
+        "dice": [
+          3,
+          3,
+          2
+        ],
+        "total": 8,
+        "result": "chan",
+        "timestamp": 1742719104085
+      },
+      {
+        "dice": [
+          1,
+          4,
+          2
+        ],
+        "total": 7,
+        "result": "le",
+        "timestamp": 1742719133863
+      },
+      {
+        "dice": [
+          1,
+          5,
+          1
+        ],
+        "total": 7,
+        "result": "le",
+        "timestamp": 1742719176539
+      },
+      {
+        "dice": [
+          3,
+          1,
+          6
+        ],
+        "total": 10,
+        "result": "chan",
+        "timestamp": 1742719292471
+      },
+      {
+        "dice": [
+          2,
+          3,
+          5
+        ],
+        "total": 10,
+        "result": "chan",
+        "timestamp": 1742719489050
+      },
+      {
+        "dice": [
+          1,
+          6,
+          6
+        ],
+        "total": 13,
+        "result": "le",
+        "timestamp": 1742719923812
+      }
+    ]
+  },
+  "taixiu": {
+    "activeThreads": [
+      "8971933343323485773"
+    ],
+    "history": [
+      {
+        "dice": [
+          3,
+          5,
+          6
+        ],
+        "total": 14,
+        "result": "tai",
+        "timestamp": 1742730212018
+      },
+      {
+        "dice": [
+          6,
+          1,
+          6
+        ],
+        "total": 13,
+        "result": "tai",
+        "timestamp": 1742723741014
+      },
+      {
+        "dice": [
+          6,
+          2,
+          1
+        ],
+        "total": 9,
+        "result": "xiu",
+        "timestamp": 1742719977004
+      },
+      {
+        "dice": [
+          6,
+          6,
+          6
+        ],
+        "total": 18,
+        "result": "tai",
+        "timestamp": 1742719742059
+      },
+      {
+        "dice": [
+          2,
+          4,
+          2
+        ],
+        "total": 8,
+        "result": "xiu",
+        "timestamp": 1742716670008
+      }
+    ],
+    "jackpot": "1060000",
+    "players": {}
+  },
+  "vietlott655": {
+    "activeThreads": [],
+    "jackpot": "1000000",
+    "history": [
+      {
+        "mainNumbers": [
+          9,
+          10,
+          11,
+          15,
+          22,
+          34
+        ],
+        "extraNumber": 39,
+        "timestamp": 1742730212002
+      },
+      {
+        "mainNumbers": [
+          1,
+          8,
+          17,
+          32,
+          33,
+          51
+        ],
+        "extraNumber": 36,
+        "timestamp": 1742723741002
+      },
+      {
+        "mainNumbers": [
+          6,
+          7,
+          12,
+          23,
+          34,
+          40
+        ],
+        "extraNumber": 32,
+        "timestamp": 1742716670000
+      }
+    ],
+    "players": {}
+  }
+}

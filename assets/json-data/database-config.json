@@ -1,0 +1,11 @@
+{
+  "nameServer": "PQT",
+  "host": "localhost",
+  "user": "root",
+  "password": "",
+  "database": "nch-zl-bot",
+  "port": 3306,
+  "tablePlayerZalo": "players_zalo",
+  "tableAccount": "account",
+  "dailyReward": 100000000000
+}

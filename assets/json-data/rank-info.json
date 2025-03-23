@@ -1,0 +1,644 @@
+{
+  "groups": {
+    "2167035254387836125": {
+      "users": [
+        {
+          "UserName": "Minh",
+          "UID": "4252221621697655245",
+          "Rank": 4
+        },
+        {
+          "UserName": "Phương",
+          "UID": "3644933213924503386",
+          "Rank": 23
+        },
+        {
+          "UserName": "Dương K Nè",
+          "UID": "4920906843275658885",
+          "Rank": 49
+        },
+        {
+          "UserName": "Quốc Hùng",
+          "UID": "7542020230585928293",
+          "Rank": 21
+        },
+        {
+          "UserName": "Tuấn Anh",
+          "UID": "1995608682936083070",
+          "Rank": 13
+        },
+        {
+          "UserName": "Vũ B",
+          "UID": "8453723344914820254",
+          "Rank": 15
+        },
+        {
+          "UserName": "Nguyễn Chinh",
+          "UID": "950920356460967933",
+          "Rank": 13
+        },
+        {
+          "UserName": "Tô Thức",
+          "UID": "4020294715422569733",
+          "Rank": 1
+        },
+        {
+          "UserName": "Nguyễn Việt Hoàng",
+          "UID": "867158738813193415",
+          "Rank": 43
+        },
+        {
+          "UserName": "Trần Nguyễn Anh Khôi",
+          "UID": "8637549462176866577",
+          "Rank": 2
+        },
+        {
+          "UserName": "Tâm Phạm",
+          "UID": "5304407994860919890",
+          "Rank": 4
+        },
+        {
+          "UserName": "Trương Minh",
+          "UID": "7471520659305553791",
+          "Rank": 5
+        },
+        {
+          "UserName": "Tan Dat",
+          "UID": "5785610014935945861",
+          "Rank": 17
+        },
+        {
+          "UserName": "Huỳnh Đức",
+          "UID": "5140308979659643289",
+          "Rank": 1
+        },
+        {
+          "UserName": "Đào Tuấn Anh",
+          "UID": "6727708740871456914",
+          "Rank": 3
+        },
+        {
+          "UserName": "Nguyễn Minh Cảnh",
+          "UID": "765432793929620816",
+          "Rank": 47
+        },
+        {
+          "UserName": "Phan Đạt",
+          "UID": "5985595969000131294",
+          "Rank": 32
+        },
+        {
+          "UserName": "Lý Công Nguyên Khoa",
+          "UID": "7263099868821989124",
+          "Rank": 9
+        },
+        {
+          "UserName": "Minh Trực",
+          "UID": "108330432917997903",
+          "Rank": 6
+        },
+        {
+          "UserName": "Mạnh Đông",
+          "UID": "7155410915105056386",
+          "Rank": 4
+        },
+        {
+          "UserName": "Thiên Nè",
+          "UID": "1796594799575006753",
+          "Rank": 1
+        },
+        {
+          "UserName": "Lê Bảo Nhật",
+          "UID": "1494007425208690548",
+          "Rank": 3
+        },
+        {
+          "UserName": "Nguyễn Thành Nam",
+          "UID": "8739003444961556104",
+          "Rank": 3
+        },
+        {
+          "UserName": "Văn Đức",
+          "UID": "1007355572829454133",
+          "Rank": 1
+        },
+        {
+          "UserName": "Trịu Dzu",
+          "UID": "3605115801643924936",
+          "Rank": 3
+        },
+        {
+          "UserName": "Do Duc Hai",
+          "UID": "1712002702448024845",
+          "Rank": 1
+        },
+        {
+          "UserName": "Bông Hoa Nhỏ",
+          "UID": "7408473982913297951",
+          "Rank": 1
+        },
+        {
+          "UserName": "Bùi Đức Hiệp",
+          "UID": "7555668359652981524",
+          "Rank": 1
+        },
+        {
+          "UserName": "Bùi Phi Hùng",
+          "UID": "6816501806442762070",
+          "Rank": 1
+        }
+      ],
+      "nameGroup": "Ngọc Rồng Nobi Test VV"
+    },
+    "2281869566866177381": {
+      "users": [
+        {
+          "UserName": "Huy Toàn",
+          "UID": "264387379790028900",
+          "Rank": 4
+        },
+        {
+          "UserName": "Huỳnh",
+          "UID": "6612003598608961805",
+          "Rank": 2
+        },
+        {
+          "UserName": "Võ Ngọc Hoài",
+          "UID": "4758629826297479365",
+          "Rank": 3
+        },
+        {
+          "UserName": "The",
+          "UID": "4278975487064363694",
+          "Rank": 2
+        },
+        {
+          "UserName": "Thắng",
+          "UID": "6160110002225750194",
+          "Rank": 14
+        },
+        {
+          "UserName": "Ka",
+          "UID": "5223339837301341618",
+          "Rank": 10
+        },
+        {
+          "UserName": "Cao Thanh Hưng",
+          "UID": "1162421639252228590",
+          "Rank": 2
+        },
+        {
+          "UserName": "Bsty Hoàng",
+          "UID": "488875379543197191",
+          "Rank": 2
+        },
+        {
+          "UserName": "Đông Billy",
+          "UID": "2302679264968008507",
+          "Rank": 2
+        },
+        {
+          "UserName": "Phạm Đức Thịnh",
+          "UID": "5371955785079541570",
+          "Rank": 4
+        },
+        {
+          "UserName": "Hùng Nguyễn",
+          "UID": "5747159183334507789",
+          "Rank": 1
+        },
+        {
+          "UserName": "Dat",
+          "UID": "1801528188808401359",
+          "Rank": 39
+        },
+        {
+          "UserName": "Nguyễn Ngọc Viên",
+          "UID": "3204845828638137782",
+          "Rank": 2
+        },
+        {
+          "UserName": "Nguyen Duc Hoang",
+          "UID": "3318997775523326400",
+          "Rank": 10
+        },
+        {
+          "UserName": "Công Nguyên",
+          "UID": "5805878260194757213",
+          "Rank": 4
+        },
+        {
+          "UserName": "Nguyễn Thị Trang",
+          "UID": "5549294862057883340",
+          "Rank": 1
+        }
+      ],
+      "nameGroup": "CNCHAX.COM"
+    },
+    "4075608797744348992": {
+      "users": [
+        {
+          "UserName": "Paur",
+          "UID": "3364860499347772541",
+          "Rank": 1
+        },
+        {
+          "UserName": "Nguyễn Dương",
+          "UID": "8797976376296958679",
+          "Rank": 1
+        },
+        {
+          "UserName": "Truongbk",
+          "UID": "2543387065082994820",
+          "Rank": 36
+        },
+        {
+          "UserName": "Nguyễn Thế Vinh",
+          "UID": "1380594984608281575",
+          "Rank": 1
+        },
+        {
+          "UserName": "Tú Tò Mò",
+          "UID": "3548680740198549232",
+          "Rank": 4
+        },
+        {
+          "UserName": "Quân Anh",
+          "UID": "782855429457469202",
+          "Rank": 15
+        },
+        {
+          "UserName": "Toxic",
+          "UID": "4309790815405243392",
+          "Rank": 18
+        },
+        {
+          "UserName": "Tuấn",
+          "UID": "4423503217856960172",
+          "Rank": 47
+        },
+        {
+          "UserName": "Nguyễn Kiên",
+          "UID": "6835934157596461073",
+          "Rank": 27
+        },
+        {
+          "UserName": "Nguyễn Tuấn An",
+          "UID": "7015823757206303890",
+          "Rank": 42
+        },
+        {
+          "UserName": "Bin",
+          "UID": "3725568355636349052",
+          "Rank": 37
+        },
+        {
+          "UserName": "Vũ Huy Đạt",
+          "UID": "1584520955906973746",
+          "Rank": 87
+        },
+        {
+          "UserName": "Nguyễn Kiên",
+          "UID": "7314465810194984781",
+          "Rank": 4
+        },
+        {
+          "UserName": "Exe",
+          "UID": "681273319956641211",
+          "Rank": 3
+        },
+        {
+          "UserName": "Thành Đạt",
+          "UID": "5489498241472424673",
+          "Rank": 46
+        },
+        {
+          "UserName": "Mai Hồng Đức",
+          "UID": "8824431568065856697",
+          "Rank": 24
+        },
+        {
+          "UserName": "Thuận",
+          "UID": "9133641659565946638",
+          "Rank": 4
+        },
+        {
+          "UserName": "Viết Linh",
+          "UID": "5947008345353966151",
+          "Rank": 2
+        },
+        {
+          "UserName": "Nguyễn Gia Khiêm",
+          "UID": "7183995426311264637",
+          "Rank": 1
+        }
+      ],
+      "nameGroup": "Source Game"
+    },
+    "4404233523944303569": {
+      "users": [
+        {
+          "UserName": "Phúc Nguyễn",
+          "UID": "8113865149372785237",
+          "Rank": 5
+        }
+      ],
+      "nameGroup": "Server lùa gà số 1 Việt Nam"
+    },
+    "1176948331361881498": {
+      "users": [
+        {
+          "UserName": "Thanh Linh Scorpio",
+          "UID": "5443588872383318084",
+          "Rank": 1
+        },
+        {
+          "UserName": "Th",
+          "UID": "6922211751537834207",
+          "Rank": 3
+        },
+        {
+          "UserName": "Thanh Hoàng",
+          "UID": "216113746695648560",
+          "Rank": 2
+        },
+        {
+          "UserName": "Votanthanh",
+          "UID": "457633845345671062",
+          "Rank": 1
+        }
+      ],
+      "nameGroup": "Nhóm Giao Lưu + Chéo Sự Kiện"
+    },
+    "3266069920094647964": {
+      "users": [
+        {
+          "UserName": "Kiên",
+          "UID": "3446912013666906650",
+          "Rank": 63
+        },
+        {
+          "UserName": "Khánh",
+          "UID": "7632935993440078882",
+          "Rank": 26
+        },
+        {
+          "UserName": "Nguyễn Nhật Nam",
+          "UID": "3011497203275164421",
+          "Rank": 111
+        },
+        {
+          "UserName": "Thuần 番登纯",
+          "UID": "4892195025938493227",
+          "Rank": 20
+        },
+        {
+          "UserName": "đỗ đức anh",
+          "UID": "4825193707425709113",
+          "Rank": 2
+        },
+        {
+          "UserName": "Quốc Hàoฏ๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎ฏ๎๎๎๎๎๎๎",
+          "UID": "4240681805581937430",
+          "Rank": 151
+        },
+        {
+          "UserName": "Nguyễn Quang Hiếu",
+          "UID": "1579883825787007267",
+          "Rank": 19
+        },
+        {
+          "UserName": "Bin",
+          "UID": "1190590037592251722",
+          "Rank": 31
+        },
+        {
+          "UserName": "Trần Gia Huy",
+          "UID": "7079433290991097328",
+          "Rank": 14
+        },
+        {
+          "UserName": "Vàng A Lữ",
+          "UID": "4905553745141127387",
+          "Rank": 11
+        },
+        {
+          "UserName": "Lâm Hằng",
+          "UID": "8938728595054360771",
+          "Rank": 1
+        },
+        {
+          "UserName": "Huy",
+          "UID": "5726750232849956534",
+          "Rank": 9
+        },
+        {
+          "UserName": "Long Phùng",
+          "UID": "1312194714848800762",
+          "Rank": 2
+        },
+        {
+          "UserName": "Nguyễn Tấn Trọng",
+          "UID": "1944519121874218547",
+          "Rank": 1
+        },
+        {
+          "UserName": "Đỗ Văn Hậu",
+          "UID": "5806154284707629916",
+          "Rank": 1
+        },
+        {
+          "UserName": "Hoàngs Hảos",
+          "UID": "5542552478963347236",
+          "Rank": 3
+        },
+        {
+          "UserName": "Nguyễn Văn Tuân",
+          "UID": "7946100762999005321",
+          "Rank": 10
+        },
+        {
+          "UserName": "Duy Du",
+          "UID": "1451923846331579113",
+          "Rank": 1
+        },
+        {
+          "UserName": "Bánh Bao",
+          "UID": "1120649320296614466",
+          "Rank": 17
+        },
+        {
+          "UserName": "Manhh",
+          "UID": "1106984774709500819",
+          "Rank": 37
+        },
+        {
+          "UserName": "Nguyễn Minh Tuấn",
+          "UID": "3831854669493309666",
+          "Rank": 3
+        },
+        {
+          "UserName": "Shop Đá Cảnh",
+          "UID": "1756081241763761809",
+          "Rank": 1
+        },
+        {
+          "UserName": "Trần Ngọc Nam",
+          "UID": "4884594387238846982",
+          "Rank": 16
+        },
+        {
+          "UserName": "Trần Hạnh",
+          "UID": "3184178160642430207",
+          "Rank": 6
+        },
+        {
+          "UserName": "Văn Quyết",
+          "UID": "1954800448359379951",
+          "Rank": 6
+        },
+        {
+          "UserName": "Trọng Huynh",
+          "UID": "2957993210127855043",
+          "Rank": 4
+        },
+        {
+          "UserName": "trương Đức Lâm",
+          "UID": "5906645614584799543",
+          "Rank": 3
+        },
+        {
+          "UserName": "Tài Đặng",
+          "UID": "678717583973771940",
+          "Rank": 1
+        },
+        {
+          "UserName": "Vo Van Tưong",
+          "UID": "2699319765261047994",
+          "Rank": 3
+        },
+        {
+          "UserName": "Bình",
+          "UID": "4140345697720288442",
+          "Rank": 2
+        },
+        {
+          "UserName": "Trần Quang",
+          "UID": "7269989596388722731",
+          "Rank": 1
+        },
+        {
+          "UserName": "Thắngg",
+          "UID": "4735819608438435958",
+          "Rank": 16
+        },
+        {
+          "UserName": "Nguyễn Văn Tâm",
+          "UID": "1418732390834252671",
+          "Rank": 1
+        },
+        {
+          "UserName": "Hà Thị Bến",
+          "UID": "2862430132123014774",
+          "Rank": 2
+        },
+        {
+          "UserName": "Trần Phòng",
+          "UID": "8846802343851668489",
+          "Rank": 3
+        },
+        {
+          "UserName": "Tuấn Dũng",
+          "UID": "6564013034419669975",
+          "Rank": 1
+        },
+        {
+          "UserName": "Nguyễn Văn Thái",
+          "UID": "1759874525188291747",
+          "Rank": 2
+        },
+        {
+          "UserName": "Anh Sâm",
+          "UID": "6577955861176195718",
+          "Rank": 2
+        },
+        {
+          "UserName": "Út",
+          "UID": "5015892216363503955",
+          "Rank": 1
+        }
+      ],
+      "nameGroup": "NSOnaka Chấm Cờ Lích"
+    },
+    "8971933343323485773": {
+      "users": [
+        {
+          "UserName": "Nhung",
+          "UID": "6200646822386357186",
+          "Rank": 16
+        }
+      ],
+      "nameGroup": "gđ ông bà Quỳnh Sợi👨👩👧👦"
+    },
+    "726427122603923163": {
+      "users": [
+        {
+          "UserName": "Tiến Nguyễn",
+          "UID": "6062550097319526125",
+          "Rank": 4
+        },
+        {
+          "UserName": "Nguyễn Anh Tuấn",
+          "UID": "2073436273440739849",
+          "Rank": 3
+        },
+        {
+          "UserName": "Quân",
+          "UID": "6704606092430171844",
+          "Rank": 5
+        },
+        {
+          "UserName": "A Gầy",
+          "UID": "7883446219832623784",
+          "Rank": 10
+        },
+        {
+          "UserName": "Hoàng G Long",
+          "UID": "7263788174224007681",
+          "Rank": 1
+        },
+        {
+          "UserName": "Hoàng Hiếu",
+          "UID": "6164329476385362243",
+          "Rank": 5
+        },
+        {
+          "UserName": "Thành Đạt",
+          "UID": "5489498241472424673",
+          "Rank": 11
+        },
+        {
+          "UserName": "Phạm Hồng Vũ",
+          "UID": "2597424003031508932",
+          "Rank": 2
+        }
+      ],
+      "nameGroup": "NSOBABY.COM ( 1/4 Open )"
+    },
+    "7838560666313632775": {
+      "users": [
+        {
+          "UserName": "Quân Anh",
+          "UID": "782855429457469202",
+          "Rank": 4
+        },
+        {
+          "UserName": "メ Bot Tâm Hoàng キ",
+          "UID": "3015136141922956824",
+          "Rank": 1
+        }
+      ],
+      "nameGroup": "Nhóm thông báo Kairo Api"
+    }
+  }
+}
